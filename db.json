@@ -1,0 +1,19 @@
+{
+  "todolist": [
+    {
+      "id": 1,
+      "title": "JS 배우기",
+      "contents": "열심히 JS를 배우자!"
+    },
+    {
+      "id": 1,
+      "title": "React 배우기",
+      "contents": "열심히 React를 배우자!"
+    },
+    {
+      "id": 1,
+      "title": "Next 배우기",
+      "contents": "열심히 Next를 배우자!"
+    }
+  ]
+}
