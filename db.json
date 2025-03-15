@@ -1,19 +1,16 @@
 {
-  "todolist": [
+  "todos": [
     {
-      "id": 1,
-      "title": "JS 배우기",
-      "contents": "열심히 JS를 배우자!"
+      "id": "4cae",
+      "title": "리액트",
+      "contents": "공부@",
+      "isDone": false
     },
     {
-      "id": 1,
-      "title": "React 배우기",
-      "contents": "열심히 React를 배우자!"
-    },
-    {
-      "id": 1,
-      "title": "Next 배우기",
-      "contents": "열심히 Next를 배우자!"
+      "id": "ad67",
+      "title": "리액트",
+      "contents": "공부",
+      "isDone": true
     }
   ]
 }
